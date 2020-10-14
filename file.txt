@@ -1,3 +1,3 @@
 Brandon text
-Added line
+Changed line
 Somebody else added a line
